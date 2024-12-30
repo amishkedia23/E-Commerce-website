@@ -1,0 +1,17 @@
+
+
+.register__auth__container {
+    height: 80%;
+    width: 100%;
+    padding-top:0.5rem;
+}
+
+.register__auth {
+    height: 100%;
+    width: 100%;
+    padding: 5%;
+    padding-top: 8%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

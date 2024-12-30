@@ -1,0 +1,19 @@
+{
+  "name": "atoz",
+  "version": "1.0.0",
+  "description": "AtoZ MERN Stack Ecommerce application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RASIUT/MERN_PROJECT"
+  },
+  "author": "Bereket Lemma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RASIUT/MERN_PROJECT/issues"
+  },
+  "homepage": "https://github.com/RASIUT/MERN_PROJECT#readme"
+}
